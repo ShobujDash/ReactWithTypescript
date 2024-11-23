@@ -1,0 +1,21 @@
+.note{
+  border: 1px solid gray;
+  padding: 2rem;
+  font-size: 1rem;
+  color: #333;
+  height: 10rem;
+  border-radius: 10px;
+  background-color: burlywood;
+  margin-top: 1rem;
+}
+
+.high{
+  background:rgb(136, 180, 34);
+  color: white;
+}
+.medium{
+  background:rgb(179, 117, 94);
+}
+.low{
+  background:rgb(224, 45, 45);
+}
